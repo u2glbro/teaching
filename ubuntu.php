@@ -1,3 +1,1 @@
-<?php
-echo'privet ubuntu';
-?>
+//здесь будут горячие клавиши для untu
